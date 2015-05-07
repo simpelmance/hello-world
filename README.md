@@ -5,3 +5,5 @@ learn Linux
 learn Python
 rule the engineer universe
 
+one language to rule them all
+
